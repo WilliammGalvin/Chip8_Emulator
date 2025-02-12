@@ -56,6 +56,69 @@ build CMakeFiles/Chip8_Emulator.dir/main.cpp.obj: CXX_COMPILER__Chip8_Emulator_u
   OBJECT_DIR = CMakeFiles\Chip8_Emulator.dir
   OBJECT_FILE_DIR = CMakeFiles\Chip8_Emulator.dir
 
+build CMakeFiles/Chip8_Emulator.dir/emulator/src/CPU.cpp.obj: CXX_COMPILER__Chip8_Emulator_unscanned_Debug C$:/Users/liamg/OneDrive/Desktop/Chip8_Emulator/emulator/src/CPU.cpp || cmake_object_order_depends_target_Chip8_Emulator
+  DEP_FILE = CMakeFiles\Chip8_Emulator.dir\emulator\src\CPU.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/SFML_mingw64/SFML-2.6.2/include
+  OBJECT_DIR = CMakeFiles\Chip8_Emulator.dir
+  OBJECT_FILE_DIR = CMakeFiles\Chip8_Emulator.dir\emulator\src
+
+build CMakeFiles/Chip8_Emulator.dir/emulator/src/CPUInstructions.cpp.obj: CXX_COMPILER__Chip8_Emulator_unscanned_Debug C$:/Users/liamg/OneDrive/Desktop/Chip8_Emulator/emulator/src/CPUInstructions.cpp || cmake_object_order_depends_target_Chip8_Emulator
+  DEP_FILE = CMakeFiles\Chip8_Emulator.dir\emulator\src\CPUInstructions.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/SFML_mingw64/SFML-2.6.2/include
+  OBJECT_DIR = CMakeFiles\Chip8_Emulator.dir
+  OBJECT_FILE_DIR = CMakeFiles\Chip8_Emulator.dir\emulator\src
+
+build CMakeFiles/Chip8_Emulator.dir/emulator/src/Display.cpp.obj: CXX_COMPILER__Chip8_Emulator_unscanned_Debug C$:/Users/liamg/OneDrive/Desktop/Chip8_Emulator/emulator/src/Display.cpp || cmake_object_order_depends_target_Chip8_Emulator
+  DEP_FILE = CMakeFiles\Chip8_Emulator.dir\emulator\src\Display.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/SFML_mingw64/SFML-2.6.2/include
+  OBJECT_DIR = CMakeFiles\Chip8_Emulator.dir
+  OBJECT_FILE_DIR = CMakeFiles\Chip8_Emulator.dir\emulator\src
+
+build CMakeFiles/Chip8_Emulator.dir/emulator/src/EmulatorDisplay.cpp.obj: CXX_COMPILER__Chip8_Emulator_unscanned_Debug C$:/Users/liamg/OneDrive/Desktop/Chip8_Emulator/emulator/src/EmulatorDisplay.cpp || cmake_object_order_depends_target_Chip8_Emulator
+  DEP_FILE = CMakeFiles\Chip8_Emulator.dir\emulator\src\EmulatorDisplay.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/SFML_mingw64/SFML-2.6.2/include
+  OBJECT_DIR = CMakeFiles\Chip8_Emulator.dir
+  OBJECT_FILE_DIR = CMakeFiles\Chip8_Emulator.dir\emulator\src
+
+build CMakeFiles/Chip8_Emulator.dir/emulator/src/ConsoleDisplay.cpp.obj: CXX_COMPILER__Chip8_Emulator_unscanned_Debug C$:/Users/liamg/OneDrive/Desktop/Chip8_Emulator/emulator/src/ConsoleDisplay.cpp || cmake_object_order_depends_target_Chip8_Emulator
+  DEP_FILE = CMakeFiles\Chip8_Emulator.dir\emulator\src\ConsoleDisplay.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/SFML_mingw64/SFML-2.6.2/include
+  OBJECT_DIR = CMakeFiles\Chip8_Emulator.dir
+  OBJECT_FILE_DIR = CMakeFiles\Chip8_Emulator.dir\emulator\src
+
+build CMakeFiles/Chip8_Emulator.dir/emulator/src/CommandInfoDisplay.cpp.obj: CXX_COMPILER__Chip8_Emulator_unscanned_Debug C$:/Users/liamg/OneDrive/Desktop/Chip8_Emulator/emulator/src/CommandInfoDisplay.cpp || cmake_object_order_depends_target_Chip8_Emulator
+  DEP_FILE = CMakeFiles\Chip8_Emulator.dir\emulator\src\CommandInfoDisplay.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/SFML_mingw64/SFML-2.6.2/include
+  OBJECT_DIR = CMakeFiles\Chip8_Emulator.dir
+  OBJECT_FILE_DIR = CMakeFiles\Chip8_Emulator.dir\emulator\src
+
+build CMakeFiles/Chip8_Emulator.dir/emulator/src/RegisterDisplay.cpp.obj: CXX_COMPILER__Chip8_Emulator_unscanned_Debug C$:/Users/liamg/OneDrive/Desktop/Chip8_Emulator/emulator/src/RegisterDisplay.cpp || cmake_object_order_depends_target_Chip8_Emulator
+  DEP_FILE = CMakeFiles\Chip8_Emulator.dir\emulator\src\RegisterDisplay.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/SFML_mingw64/SFML-2.6.2/include
+  OBJECT_DIR = CMakeFiles\Chip8_Emulator.dir
+  OBJECT_FILE_DIR = CMakeFiles\Chip8_Emulator.dir\emulator\src
+
+build CMakeFiles/Chip8_Emulator.dir/emulator/src/EmulatorConsole.cpp.obj: CXX_COMPILER__Chip8_Emulator_unscanned_Debug C$:/Users/liamg/OneDrive/Desktop/Chip8_Emulator/emulator/src/EmulatorConsole.cpp || cmake_object_order_depends_target_Chip8_Emulator
+  DEP_FILE = CMakeFiles\Chip8_Emulator.dir\emulator\src\EmulatorConsole.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/SFML_mingw64/SFML-2.6.2/include
+  OBJECT_DIR = CMakeFiles\Chip8_Emulator.dir
+  OBJECT_FILE_DIR = CMakeFiles\Chip8_Emulator.dir\emulator\src
+
+build CMakeFiles/Chip8_Emulator.dir/emulator/src/EmulatorHistory.cpp.obj: CXX_COMPILER__Chip8_Emulator_unscanned_Debug C$:/Users/liamg/OneDrive/Desktop/Chip8_Emulator/emulator/src/EmulatorHistory.cpp || cmake_object_order_depends_target_Chip8_Emulator
+  DEP_FILE = CMakeFiles\Chip8_Emulator.dir\emulator\src\EmulatorHistory.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/SFML_mingw64/SFML-2.6.2/include
+  OBJECT_DIR = CMakeFiles\Chip8_Emulator.dir
+  OBJECT_FILE_DIR = CMakeFiles\Chip8_Emulator.dir\emulator\src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Chip8_Emulator
@@ -64,7 +127,7 @@ build CMakeFiles/Chip8_Emulator.dir/main.cpp.obj: CXX_COMPILER__Chip8_Emulator_u
 #############################################
 # Link the executable Chip8_Emulator.exe
 
-build Chip8_Emulator.exe: CXX_EXECUTABLE_LINKER__Chip8_Emulator_Debug CMakeFiles/Chip8_Emulator.dir/main.cpp.obj | C$:/SFML_mingw64/SFML-2.6.2/lib/libsfml-graphics-d.a C$:/SFML_mingw64/SFML-2.6.2/lib/libsfml-window-d.a C$:/SFML_mingw64/SFML-2.6.2/lib/libsfml-system-d.a
+build Chip8_Emulator.exe: CXX_EXECUTABLE_LINKER__Chip8_Emulator_Debug CMakeFiles/Chip8_Emulator.dir/main.cpp.obj CMakeFiles/Chip8_Emulator.dir/emulator/src/CPU.cpp.obj CMakeFiles/Chip8_Emulator.dir/emulator/src/CPUInstructions.cpp.obj CMakeFiles/Chip8_Emulator.dir/emulator/src/Display.cpp.obj CMakeFiles/Chip8_Emulator.dir/emulator/src/EmulatorDisplay.cpp.obj CMakeFiles/Chip8_Emulator.dir/emulator/src/ConsoleDisplay.cpp.obj CMakeFiles/Chip8_Emulator.dir/emulator/src/CommandInfoDisplay.cpp.obj CMakeFiles/Chip8_Emulator.dir/emulator/src/RegisterDisplay.cpp.obj CMakeFiles/Chip8_Emulator.dir/emulator/src/EmulatorConsole.cpp.obj CMakeFiles/Chip8_Emulator.dir/emulator/src/EmulatorHistory.cpp.obj | C$:/SFML_mingw64/SFML-2.6.2/lib/libsfml-graphics-d.a C$:/SFML_mingw64/SFML-2.6.2/lib/libsfml-window-d.a C$:/SFML_mingw64/SFML-2.6.2/lib/libsfml-system-d.a
   FLAGS = -g
   LINK_LIBRARIES = C:/SFML_mingw64/SFML-2.6.2/lib/libsfml-graphics-d.a  C:/SFML_mingw64/SFML-2.6.2/lib/libsfml-window-d.a  C:/SFML_mingw64/SFML-2.6.2/lib/libsfml-system-d.a  -lopengl32  -lwinmm  -luser32  -lgdi32  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Chip8_Emulator.dir
